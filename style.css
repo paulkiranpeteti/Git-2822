@@ -7,7 +7,7 @@
     <title>Document</title>
 <style>
     body{
-        background-color: chartreuse;
+        background-color:white;
     }
     h1{
         text-align: center;
@@ -20,14 +20,14 @@
 </head>
 <body>
     <h1>User profile</h1>
-    <p>Name : Peteti Paul Kiran</p>
-    <p>Id: 21000031927</p><br>
+    <p style="color:darkorange">Name : Peteti Paul Kiran</p>
+    <p style="color:darkorange">Id: 21000031927</p><br>
 
-    <p>Name : Potta Ruthwick</p>
-    <p>Id: 21000032011</p><br>
+    <p style="color:skyblue">Name : Potta Ruthwick</p>
+    <p style="color:skyblue">Id: 21000032011</p><br>
 
-    <p>Name : Seepana Venkateshwararao</p>
-    <p>Id: 21000032157</p><br>
+    <p style="color:green ;">Name : Seepana Venkateshwararao</p>
+    <p style="color:green ;">Id: 21000032157</p><br>
     
 </body>
 </html>
